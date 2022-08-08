@@ -7,6 +7,24 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		1343ECEA289FE75900824878 /* ApiClientStepOne.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1343ECE9289FE75800824878 /* ApiClientStepOne.swift */; };
+		1343ECEC289FE7D400824878 /* HomeStepOne.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1343ECEB289FE7D400824878 /* HomeStepOne.swift */; };
+		1343ECEF289FE8A200824878 /* HomePageData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1343ECEE289FE8A200824878 /* HomePageData.swift */; };
+		1343ECF1289FE8D800824878 /* User.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1343ECF0289FE8D800824878 /* User.swift */; };
+		1343ECF3289FE8FF00824878 /* Like.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1343ECF2289FE8FF00824878 /* Like.swift */; };
+		1343ECF5289FE99600824878 /* RegisterUserStepOne.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1343ECF4289FE99600824878 /* RegisterUserStepOne.swift */; };
+		1343ECF7289FE9DC00824878 /* LikeStepOne.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1343ECF6289FE9DC00824878 /* LikeStepOne.swift */; };
+		1343ECFA289FEEC800824878 /* ApiClientStepTwo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1343ECF9289FEEC800824878 /* ApiClientStepTwo.swift */; };
+		1343ECFC289FEEEE00824878 /* HomeStepTwo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1343ECFB289FEEEE00824878 /* HomeStepTwo.swift */; };
+		1343ECFE289FF02900824878 /* LikeStepTwo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1343ECFD289FF02900824878 /* LikeStepTwo.swift */; };
+		1343ED00289FF08500824878 /* RegisterUserStepTwo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1343ECFF289FF08500824878 /* RegisterUserStepTwo.swift */; };
+		13EFE8FC28A0491500FDFA41 /* ApiClientStepThree.swift in Sources */ = {isa = PBXBuildFile; fileRef = 13EFE8FB28A0491500FDFA41 /* ApiClientStepThree.swift */; };
+		13EFE8FE28A0491F00FDFA41 /* HomeStepThree.swift in Sources */ = {isa = PBXBuildFile; fileRef = 13EFE8FD28A0491F00FDFA41 /* HomeStepThree.swift */; };
+		13EFE90028A0492700FDFA41 /* LikeStepThree.swift in Sources */ = {isa = PBXBuildFile; fileRef = 13EFE8FF28A0492700FDFA41 /* LikeStepThree.swift */; };
+		13EFE90228A0493200FDFA41 /* RegisterUserStepThree.swift in Sources */ = {isa = PBXBuildFile; fileRef = 13EFE90128A0493200FDFA41 /* RegisterUserStepThree.swift */; };
+		13EFE90528A18A0000FDFA41 /* ApiClientStepFour.swift in Sources */ = {isa = PBXBuildFile; fileRef = 13EFE90428A18A0000FDFA41 /* ApiClientStepFour.swift */; };
+		13EFE90728A18A0900FDFA41 /* HomeStepFour.swift in Sources */ = {isa = PBXBuildFile; fileRef = 13EFE90628A18A0900FDFA41 /* HomeStepFour.swift */; };
+		13EFE90D28A18A6700FDFA41 /* HomeClientAdapter.swift in Sources */ = {isa = PBXBuildFile; fileRef = 13EFE90C28A18A6700FDFA41 /* HomeClientAdapter.swift */; };
 		13F8E885289FE4D800D98C65 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 13F8E884289FE4D800D98C65 /* AppDelegate.swift */; };
 		13F8E887289FE4D800D98C65 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 13F8E886289FE4D800D98C65 /* SceneDelegate.swift */; };
 		13F8E889289FE4D800D98C65 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 13F8E888289FE4D800D98C65 /* ViewController.swift */; };
@@ -16,6 +34,24 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		1343ECE9289FE75800824878 /* ApiClientStepOne.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ApiClientStepOne.swift; sourceTree = "<group>"; };
+		1343ECEB289FE7D400824878 /* HomeStepOne.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeStepOne.swift; sourceTree = "<group>"; };
+		1343ECEE289FE8A200824878 /* HomePageData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomePageData.swift; sourceTree = "<group>"; };
+		1343ECF0289FE8D800824878 /* User.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = User.swift; sourceTree = "<group>"; };
+		1343ECF2289FE8FF00824878 /* Like.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Like.swift; sourceTree = "<group>"; };
+		1343ECF4289FE99600824878 /* RegisterUserStepOne.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RegisterUserStepOne.swift; sourceTree = "<group>"; };
+		1343ECF6289FE9DC00824878 /* LikeStepOne.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LikeStepOne.swift; sourceTree = "<group>"; };
+		1343ECF9289FEEC800824878 /* ApiClientStepTwo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ApiClientStepTwo.swift; sourceTree = "<group>"; };
+		1343ECFB289FEEEE00824878 /* HomeStepTwo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeStepTwo.swift; sourceTree = "<group>"; };
+		1343ECFD289FF02900824878 /* LikeStepTwo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LikeStepTwo.swift; sourceTree = "<group>"; };
+		1343ECFF289FF08500824878 /* RegisterUserStepTwo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RegisterUserStepTwo.swift; sourceTree = "<group>"; };
+		13EFE8FB28A0491500FDFA41 /* ApiClientStepThree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ApiClientStepThree.swift; sourceTree = "<group>"; };
+		13EFE8FD28A0491F00FDFA41 /* HomeStepThree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeStepThree.swift; sourceTree = "<group>"; };
+		13EFE8FF28A0492700FDFA41 /* LikeStepThree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LikeStepThree.swift; sourceTree = "<group>"; };
+		13EFE90128A0493200FDFA41 /* RegisterUserStepThree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RegisterUserStepThree.swift; sourceTree = "<group>"; };
+		13EFE90428A18A0000FDFA41 /* ApiClientStepFour.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ApiClientStepFour.swift; sourceTree = "<group>"; };
+		13EFE90628A18A0900FDFA41 /* HomeStepFour.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeStepFour.swift; sourceTree = "<group>"; };
+		13EFE90C28A18A6700FDFA41 /* HomeClientAdapter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeClientAdapter.swift; sourceTree = "<group>"; };
 		13F8E881289FE4D700D98C65 /* Singletons-In-Modular-System-Design.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Singletons-In-Modular-System-Design.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		13F8E884289FE4D800D98C65 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		13F8E886289FE4D800D98C65 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -37,6 +73,59 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		1343ECE8289FE72900824878 /* StepOne */ = {
+			isa = PBXGroup;
+			children = (
+				1343ECE9289FE75800824878 /* ApiClientStepOne.swift */,
+				1343ECEB289FE7D400824878 /* HomeStepOne.swift */,
+				1343ECF6289FE9DC00824878 /* LikeStepOne.swift */,
+				1343ECF4289FE99600824878 /* RegisterUserStepOne.swift */,
+			);
+			path = StepOne;
+			sourceTree = "<group>";
+		};
+		1343ECED289FE89900824878 /* Models */ = {
+			isa = PBXGroup;
+			children = (
+				1343ECEE289FE8A200824878 /* HomePageData.swift */,
+				1343ECF2289FE8FF00824878 /* Like.swift */,
+				1343ECF0289FE8D800824878 /* User.swift */,
+			);
+			path = Models;
+			sourceTree = "<group>";
+		};
+		1343ECF8289FEEA600824878 /* StepTwo */ = {
+			isa = PBXGroup;
+			children = (
+				1343ECF9289FEEC800824878 /* ApiClientStepTwo.swift */,
+				1343ECFB289FEEEE00824878 /* HomeStepTwo.swift */,
+				1343ECFD289FF02900824878 /* LikeStepTwo.swift */,
+				1343ECFF289FF08500824878 /* RegisterUserStepTwo.swift */,
+			);
+			path = StepTwo;
+			sourceTree = "<group>";
+		};
+		13EFE8FA28A048F800FDFA41 /* StepThree */ = {
+			isa = PBXGroup;
+			children = (
+				13EFE8FB28A0491500FDFA41 /* ApiClientStepThree.swift */,
+				13EFE8FD28A0491F00FDFA41 /* HomeStepThree.swift */,
+				13EFE8FF28A0492700FDFA41 /* LikeStepThree.swift */,
+				13EFE90128A0493200FDFA41 /* RegisterUserStepThree.swift */,
+			);
+			path = StepThree;
+			sourceTree = "<group>";
+		};
+		13EFE90328A189F400FDFA41 /* StepFour */ = {
+			isa = PBXGroup;
+			children = (
+				13EFE90428A18A0000FDFA41 /* ApiClientStepFour.swift */,
+				13EFE90C28A18A6700FDFA41 /* HomeClientAdapter.swift */,
+				13EFE90628A18A0900FDFA41 /* HomeStepFour.swift */,
+			);
+			path = StepFour;
+			sourceTree = "<group>";
+		};
 		13F8E878289FE4D700D98C65 = {
 			isa = PBXGroup;
 			children = (
@@ -57,6 +146,7 @@
 			isa = PBXGroup;
 			children = (
 				13F8E898289FE4F200D98C65 /* App */,
+				1343ECED289FE89900824878 /* Models */,
 				13F8E899289FE50200D98C65 /* Modules */,
 				13F8E89B289FE51A00D98C65 /* Resources */,
 			);
@@ -76,6 +166,10 @@
 			isa = PBXGroup;
 			children = (
 				13F8E888289FE4D800D98C65 /* ViewController.swift */,
+				13EFE90328A189F400FDFA41 /* StepFour */,
+				1343ECE8289FE72900824878 /* StepOne */,
+				13EFE8FA28A048F800FDFA41 /* StepThree */,
+				1343ECF8289FEEA600824878 /* StepTwo */,
 				13F8E89A289FE51200D98C65 /* Storyboards */,
 			);
 			path = Modules;
@@ -170,9 +264,27 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				1343ECFE289FF02900824878 /* LikeStepTwo.swift in Sources */,
+				13EFE90D28A18A6700FDFA41 /* HomeClientAdapter.swift in Sources */,
 				13F8E889289FE4D800D98C65 /* ViewController.swift in Sources */,
+				13EFE90528A18A0000FDFA41 /* ApiClientStepFour.swift in Sources */,
 				13F8E885289FE4D800D98C65 /* AppDelegate.swift in Sources */,
+				1343ECFA289FEEC800824878 /* ApiClientStepTwo.swift in Sources */,
+				1343ECF3289FE8FF00824878 /* Like.swift in Sources */,
+				13EFE90728A18A0900FDFA41 /* HomeStepFour.swift in Sources */,
 				13F8E887289FE4D800D98C65 /* SceneDelegate.swift in Sources */,
+				1343ECEC289FE7D400824878 /* HomeStepOne.swift in Sources */,
+				1343ECF7289FE9DC00824878 /* LikeStepOne.swift in Sources */,
+				1343ECF5289FE99600824878 /* RegisterUserStepOne.swift in Sources */,
+				1343ECEA289FE75900824878 /* ApiClientStepOne.swift in Sources */,
+				1343ED00289FF08500824878 /* RegisterUserStepTwo.swift in Sources */,
+				13EFE8FE28A0491F00FDFA41 /* HomeStepThree.swift in Sources */,
+				1343ECEF289FE8A200824878 /* HomePageData.swift in Sources */,
+				13EFE90028A0492700FDFA41 /* LikeStepThree.swift in Sources */,
+				1343ECF1289FE8D800824878 /* User.swift in Sources */,
+				13EFE90228A0493200FDFA41 /* RegisterUserStepThree.swift in Sources */,
+				13EFE8FC28A0491500FDFA41 /* ApiClientStepThree.swift in Sources */,
+				1343ECFC289FEEEE00824878 /* HomeStepTwo.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
